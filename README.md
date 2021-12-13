@@ -1,6 +1,7 @@
 # Distributed Training of Graph Convolutional Networks
 
 This is the companion code for the paper:
+
 S. Scardapane; I. Spinelli, P. Di Lorenzo [Distributed Training of Graph Convolutional Networks](https://ieeexplore.ieee.org/abstract/document/9303371), *IEEE Transactions on Signal and Information Processing over Networks*, 2021.
 
 ### Cite
@@ -9,7 +10,7 @@ Please cite our paper if you use this code in your own work:
 
 ```
 @ARTICLE{scardapane2021dgcn,
-  author={Scardapane, Simone and Spinelli, Indro and Lorenzo, Paolo Di},
+  author={Scardapane, Simone and Spinelli, Indro and Di Lorenzo, Paolo},
   journal={IEEE Transactions on Signal and Information Processing over Networks}, 
   title={Distributed Training of Graph Convolutional Networks}, 
   year={2021},
