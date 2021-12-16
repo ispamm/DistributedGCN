@@ -1,8 +1,19 @@
 # Distributed Training of Graph Convolutional Networks
 
-This is the companion code for the paper:
+This is a basic example of the training procedure used in the paper:
 
 S. Scardapane; I. Spinelli, P. Di Lorenzo [Distributed Training of Graph Convolutional Networks](https://ieeexplore.ieee.org/abstract/document/9303371), *IEEE Transactions on Signal and Information Processing over Networks*, 2021.
+
+### Installation
+
+To install all required dependencies run:
+
+```
+pip install -r requirements.txt
+```
+
+### Run
+The "self-contained" notebook shows the distributed training for the task of node classification on CoRa.
 
 ### Cite
 
